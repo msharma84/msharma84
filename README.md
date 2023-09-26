@@ -14,6 +14,7 @@
 <img src="https://github.com/github/explore/raw/main/topics/kubernetes/kubernetes.png" alt="kubernetes" width="40" height="40"/>
 <img src="https://github.com/github/explore/raw/main/topics/spring-boot/spring-boot.png" alt="spring-boot" width="40" height="40"/>
 <img src="https://github.com/github/explore/raw/main/topics/maven/maven.png" alt="maven" width="40" height="40"/>
+<img src="https://github.com/github/explore/raw/main/topics/postgresql/postgresql.png" alt="postgres" width="40" height="40"/>
 </p>
 <!--
 **msharma84/msharma84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
